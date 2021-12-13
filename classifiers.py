@@ -8,7 +8,6 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
 # machine learning
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
